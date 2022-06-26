@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using Microsoft.AspNet.SignalR;
-
+//это
 namespace SignalRMvcChat
 {
     public class ChatHub : Hub

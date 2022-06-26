@@ -26,7 +26,7 @@ namespace SignalRMvcChat.Controllers
 
             return View();
         }
-
+        //это
         public ActionResult Chat()
         {
             return View();

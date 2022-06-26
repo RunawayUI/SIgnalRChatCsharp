@@ -5,7 +5,7 @@ using System.Web;
 using Owin;
 using Microsoft.Owin;
 [assembly: OwinStartup(typeof(SignalRMvcChat.Startup))]
-
+//это
 namespace SignalRMvcChat
 {
     public class Startup
